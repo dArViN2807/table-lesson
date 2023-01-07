@@ -1,0 +1,68 @@
+.heading {
+  text-align: center;
+  margin-top: 100px;
+}
+p {
+  font-size: 20px;
+}
+table {
+  text-align: center;
+}
+.pod,
+.features {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #95a1bb;
+}
+table {
+  margin: 0 auto;
+  width: 1200px;
+  margin-top: 20px;
+  box-shadow: 1px 1px 5px #363940;
+  border-color: #cacaca;
+}
+.Start {
+  width: 140px;
+  height: 36px;
+  border: 1px solid #6e38f7;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #6e38f7;
+}
+.Start:hover {
+  background: #6e38f7;
+  border-radius: 4px;
+  color: #fff;
+  transition: all 0.3s ease-in;
+  box-shadow: 4px 5px 4px #2b0687;
+}
+.Buy {
+  outline: none;
+  width: 140px;
+  height: 36px;
+  background: #6e38f7;
+  border-radius: 4px;
+  color: #fff;
+  transition: all 0.3s ease-in;
+  box-shadow: 4px 5px 4px #2b0687;
+}
+.Buy:hover {
+  outline: none;
+  width: 140px;
+  height: 36px;
+  border: 1px solid #6e38f7;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #6e38f7;
+}
+.questions {
+  color: #6e38f7;
+}
+td,
+th {
+  padding: 15px 20px;
+}
